@@ -14,6 +14,7 @@ public class Main{
         System.out.println("Data Mahasiswa: ");
         System.out.println("Nama: " + nama);
         System.out.println("Nilai: " + nilai);
+        System.out.println("Jurusan Mahasiswa: ");
 
 
     }
